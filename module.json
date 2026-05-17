@@ -1,0 +1,13 @@
+{
+    "name": "Virkdata",
+    "alias": "virkdata",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Virkdata\\Providers\\VirkdataServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

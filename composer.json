@@ -1,0 +1,33 @@
+{
+    "name": "nwidart/virkdata",
+    "description": "Virkdata module for Laravel 12 project",
+    "type": "library",
+    "require": {
+  
+    },
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+            ],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Virkdata\\": "",
+            "Modules\\Virkdata\\Database\\Factories\\": "database/factories/",
+            "Modules\\Virkdata\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Virkdata\\Tests\\": "tests/"
+        }
+    }
+}

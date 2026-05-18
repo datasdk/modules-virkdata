@@ -1,14 +1,17 @@
 {
-    "name": "nwidart/virkdata",
+    "name": "datasdk/virkdata-module",
+    "type": "laravel-module",
+    "license": "proprietary",
+    
     "description": "Virkdata module for Laravel 12 project",
-    "type": "library",
+
     "require": {
   
     },
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Kasper L. Kristiansen",
+            "email": "info@datas.dk"
         }
     ],
     "extra": {
